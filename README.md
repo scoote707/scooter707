@@ -1,1 +1,1 @@
-# scooter707
+# Hello, are you a longtime fan of playing games or wanting to step in the vast open digital world? So many, so little time but also the cost of getting games has been increasing year after year. Finding titles that respect your time and value of money are crucial factors when deciding to play a game. But we don't like spending full retail prices and there are potential deals that we may not know about. Worry not, for I have created a program to search well known online retailers for the best prices of the titles the user enters with price to price comparison.
